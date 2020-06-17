@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-<style>
 <body>
 
 <h1> Welocme to my page guys </h1>
